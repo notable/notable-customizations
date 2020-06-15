@@ -36,6 +36,7 @@ List of interesting theming-related configurations.
 
 ## Other customizations
 
+- [Auto Complete Yaml Tags from Vim](https://github.com/RyanGreenup/Note-Taking-Tools/blob/master/auto-complete-tags-vim/Auto-Complete-Tags.md)
+
 List of other interesting customizations, mainly involving third-party tools.
 
-- _No customizations yet_
