@@ -39,3 +39,4 @@ List of interesting theming-related configurations.
 List of other interesting customizations, mainly involving third-party tools.
 
 - [Autocomplete YAML tags from Vim](https://github.com/RyanGreenup/Note-Taking-Tools/blob/master/auto-complete-tags-vim/Auto-Complete-Tags.md)
+- [Sync Tags with TMSU](https://github.com/RyanGreenup/Note-Taking-Tools/blob/master/tags-to-TMSU/Import-Tags-to-TMSU.md)
