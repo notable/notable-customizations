@@ -32,7 +32,7 @@ List of interesting custom shortcuts.
 
 List of interesting theming-related configurations.
 
-- [3500+ different themes ported from VS Code are installable via the "Theme: Install..." command](@command/theme.install)
+- [3500+ different themes ported from VS Code are installable via the "Theme: Install..." command](notable://command/theme.install)
 
 ## Other customizations
 
