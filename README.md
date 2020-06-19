@@ -1,6 +1,6 @@
 # Notable Customizations
 
-This repository contains a collection of interesting community-created customizations for Notable.
+This repository contains a collection of interesting community-created customizations and tips for Notable.
 
 Add your own interesting customization to this collection by submiting a pull request or sharing it in our [chat](https://chat.notable.app).
 
@@ -32,7 +32,7 @@ List of interesting custom shortcuts.
 
 List of interesting theming-related configurations.
 
-- _No customizations yet_
+- [3500+ different themes ported from VS Code are installable via the "Theme: Install..." command](@command/theme.install)
 
 ## Other customizations
 
