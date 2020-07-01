@@ -40,3 +40,4 @@ List of other interesting customizations, mainly involving third-party tools.
 
 - [Autocomplete YAML tags from Vim](https://github.com/RyanGreenup/Note-Taking-Tools/blob/master/auto-complete-tags-vim/Auto-Complete-Tags.md)
 - [Synchronizing tags with TMSU](https://github.com/RyanGreenup/Note-Taking-Tools/blob/master/tags-to-TMSU/Import-Tags-to-TMSU.md)
+- [Reorder notes in folders matching Notebooks](https://gist.github.com/amelandri/555fdac374a24896f3be2f6ad32e0521)
