@@ -34,10 +34,16 @@ List of interesting theming-related configurations.
 
 - 3500+ different themes ported from VS Code are installable via the "Theme: Install..." command
 
+
 ## Other customizations
 
 List of other interesting customizations, mainly involving third-party tools.
 
-- [Autocomplete YAML tags from Vim](https://github.com/RyanGreenup/Note-Taking-Tools/blob/master/auto-complete-tags-vim/Auto-Complete-Tags.md)
-- [Synchronizing tags with TMSU](https://github.com/RyanGreenup/Note-Taking-Tools/blob/master/tags-to-TMSU/Import-Tags-to-TMSU.md)
-- [Reorder notes in folders matching Notebooks](https://gist.github.com/amelandri/555fdac374a24896f3be2f6ad32e0521)
+- Tags:
+  - [Autocomplete YAML tags from Vim](https://github.com/RyanGreenup/Note-Taking-Tools/blob/master/auto-complete-tags-vim/Auto-Complete-Tags.md)
+  - [Synchronizing tags with TMSU](https://github.com/RyanGreenup/Note-Taking-Tools/blob/master/tags-to-TMSU/Import-Tags-to-TMSU.md)
+- Searching:
+  - [Use Recoll Search Engine from Terminal (integrates well with VSCode)](https://github.com/RyanGreenup/Note-Taking-Tools/blob/master/Terminal-Skim-Recoll/Terminal-Skim-Recoll.md)
+- Organisation:
+  - [Reorder notes in folders matching Notebooks](https://gist.github.com/amelandri/555fdac374a24896f3be2f6ad32e0521)
+  - [Print BackLinks](https://github.com/RyanGreenup/Note-Taking-Tools/blob/master/List-BackLinks/ListBacklinks.md)
