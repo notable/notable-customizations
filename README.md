@@ -26,7 +26,58 @@ List of interesting settings configurations.
 
 List of interesting custom shortcuts.
 
-- _No customizations yet_
+Paste clipboard content surrounded by code fence:
+```
+  { 
+    "shortcut": "Cmd+Shift+D",
+    "command": "macro", 
+    "args": [
+      ["editor.paste",["```\n"]],
+      "editor.paste",
+      ["editor.paste",["\n```\n"]]
+    ]
+  }
+```
+
+Turn selection into code fence:
+```
+  { 
+    "shortcut": "Cmd+D",
+    "command": "macro", 
+    "args": [
+      "editor.cut",
+      ["editor.paste",["```\n"]],
+      "editor.paste",
+      ["editor.paste",["\n```\n"]]
+    ]
+  }
+```
+
+Surround selected text with e.g. double-asterisks:
+```
+  { 
+    "shortcut": "Cmd+B",
+    "command": "macro", 
+    "args": [
+      "editor.cut",
+      ["editor.paste",["**"]],
+      "editor.paste",
+      ["editor.paste",["**"]]
+    ]
+  }
+```
+
+Insert text at beginning of line, e.g. headers
+```
+  {
+    "shortcut": "Cmd+3",
+    "command": "macro", 
+    "args": [
+      "editor.cursor.line.start",
+      ["editor.paste",["### "]]
+    ]
+  }
+ ```
 
 ## Theming
 
