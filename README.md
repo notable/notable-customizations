@@ -26,7 +26,10 @@ List of interesting settings configurations.
 
 List of interesting custom shortcuts.
 
-Paste clipboard content surrounded by code fence:
+<details>
+  <summary>Paste clipboard content surrounded by code fence</summary>
+  <p>
+    
 ```
   { 
     "shortcut": "Cmd+Shift+D",
@@ -38,8 +41,13 @@ Paste clipboard content surrounded by code fence:
     ]
   }
 ```
-
-Turn selection into code fence:
+  </p>
+</details>
+  
+<details>
+  <summary>Turn selection into code fence</summary>
+  <p>
+    
 ```
   { 
     "shortcut": "Cmd+D",
@@ -52,8 +60,13 @@ Turn selection into code fence:
     ]
   }
 ```
+  </p>
+</details>
 
-Surround selected text with e.g. double-asterisks:
+<details>
+  <summary>Surround selected text with e.g. double-asterisks</summary>
+  <p>
+    
 ```
   { 
     "shortcut": "Cmd+B",
@@ -66,8 +79,13 @@ Surround selected text with e.g. double-asterisks:
     ]
   }
 ```
+  </p>
+</details>
 
-Insert text at beginning of line, e.g. headers
+<details>
+  <summary>Insert text at beginning of line, e.g. headers</summary>
+  <p>
+    
 ```
   {
     "shortcut": "Cmd+3",
@@ -77,7 +95,9 @@ Insert text at beginning of line, e.g. headers
       ["editor.paste",["### "]]
     ]
   }
- ```
+```
+  </p>
+</details>
 
 ## Theming
 
