@@ -16,6 +16,18 @@ List of interesting context keys expressions.
 
 - _No customizations yet_
 
+## Custom CSS
+
+List of interesting custom CSS snippets.
+
+- _No customizations yet_
+
+## Custom JS
+
+List of interesting custom JavaScript snippets.
+
+- _No customizations yet_
+
 ## Settings
 
 List of interesting settings configurations.
