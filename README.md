@@ -126,3 +126,5 @@ List of other interesting customizations, mainly involving third-party tools.
 - Organisation:
   - [Reorder notes in folders matching Notebooks](https://gist.github.com/amelandri/555fdac374a24896f3be2f6ad32e0521)
   - [Print BackLinks](https://github.com/RyanGreenup/Note-Taking-Tools/blob/master/List-BackLinks/ListBacklinks.md)
+- Automation:
+  - [Git Synchronisation Schedule Script](https://github.com/evanshortiss/notable-git-sync-setup)
