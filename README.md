@@ -26,7 +26,7 @@ List of interesting custom CSS snippets.
 
 List of interesting custom JavaScript snippets.
 
-- _No customizations yet_
+- [Markdown Calc](https://gist.github.com/kmccullen97/b7d54da28572c6a4156b051aa2eb0644) (turn static tables into spreadsheets)
 
 ## Settings
 
