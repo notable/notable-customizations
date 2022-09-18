@@ -128,3 +128,4 @@ List of other interesting customizations, mainly involving third-party tools.
   - [Print BackLinks](https://github.com/RyanGreenup/Note-Taking-Tools/blob/master/List-BackLinks/ListBacklinks.md)
 - Automation:
   - [Git Synchronisation Schedule Script](https://github.com/evanshortiss/notable-git-sync-setup)
+  - [Publish to GitHub pages "Share via Link..." interceptor](https://github.com/thinkaliker/note-publish)
